@@ -6,7 +6,14 @@
 //  Copyright © 2018 Katelyn Pace. All rights reserved.
 //
 
-import Foundation
 
-print("Hello, World!")
+print("Welcome to the Video Game Library")
+
+
+let menu = Menu()
+menu.go()
+
+
+
+
 
