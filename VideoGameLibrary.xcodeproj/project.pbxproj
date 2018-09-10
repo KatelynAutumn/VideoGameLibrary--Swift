@@ -10,6 +10,7 @@
 		AF21510921384A8400E225C1 /* menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF21510821384A8400E225C1 /* menu.swift */; };
 		AF721859213EBBE300D32FA2 /* game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF721858213EBBE300D32FA2 /* game.swift */; };
 		AF72185B213EC05200D32FA2 /* library.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF72185A213EC05200D32FA2 /* library.swift */; };
+		AF72185F214167D200D32FA2 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF72185E214167D100D32FA2 /* Utilities.swift */; };
 		AF79053F213716960088E207 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF79053E213716960088E207 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		AF21510821384A8400E225C1 /* menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menu.swift; sourceTree = "<group>"; };
 		AF721858213EBBE300D32FA2 /* game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = game.swift; sourceTree = "<group>"; };
 		AF72185A213EC05200D32FA2 /* library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = library.swift; sourceTree = "<group>"; };
+		AF72185E214167D100D32FA2 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		AF79053B213716960088E207 /* VideoGameLibrary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VideoGameLibrary; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF79053E213716960088E207 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +68,7 @@
 				AF79053E213716960088E207 /* main.swift */,
 				AF21510821384A8400E225C1 /* menu.swift */,
 				AF721858213EBBE300D32FA2 /* game.swift */,
+				AF72185E214167D100D32FA2 /* Utilities.swift */,
 				AF72185A213EC05200D32FA2 /* library.swift */,
 			);
 			path = VideoGameLibrary;
@@ -131,6 +134,7 @@
 				AF721859213EBBE300D32FA2 /* game.swift in Sources */,
 				AF72185B213EC05200D32FA2 /* library.swift in Sources */,
 				AF21510921384A8400E225C1 /* menu.swift in Sources */,
+				AF72185F214167D200D32FA2 /* Utilities.swift in Sources */,
 				AF79053F213716960088E207 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

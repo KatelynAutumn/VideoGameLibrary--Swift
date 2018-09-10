@@ -18,14 +18,13 @@ class Game {
     var title: String
     //setting to true by default, since whenever we create a new game we will assume its checked in
     var checkedIn = true
-    
     //This is optional because if a game isnt checked out it wont have a due date
     var dueDate: Date?
-    
+    var rating: String
     //since checked in has a default value and dueDate is an optional, the only value that we have to initialize is the title
-    init(title: String) {
+    init(title: String, rating: String) {
     self.title = title
-    }
+    self.rating = rating    }
 }
 
 
